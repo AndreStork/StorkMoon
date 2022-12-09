@@ -2,55 +2,60 @@
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c003 79.164527, 2020/10/15-17:48:32        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
             xmlns:xmp="http://ns.adobe.com/xap/1.0/"
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-            xmlns:dc="http://purl.org/dc/elements/1.1/">
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Wah</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:format>audio/ogg; codec="vorbis"</dc:format>
+         <xmpDM:artist>Ninomae Ina'nis</xmpDM:artist>
          <xmpDM:Tracks>
             <rdf:Bag>
                <rdf:li rdf:parseType="Resource">
                   <xmpDM:trackName>CuePoint Markers</xmpDM:trackName>
                   <xmpDM:trackType>Cue</xmpDM:trackType>
-                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+                  <xmpDM:frameRate>f48000</xmpDM:frameRate>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <xmpDM:trackName>CD Track Markers</xmpDM:trackName>
                   <xmpDM:trackType>Track</xmpDM:trackType>
-                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+                  <xmpDM:frameRate>f48000</xmpDM:frameRate>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <xmpDM:trackName>Subclip Markers</xmpDM:trackName>
                   <xmpDM:trackType>InOut</xmpDM:trackType>
-                  <xmpDM:frameRate>f44100</xmpDM:frameRate>
+                  <xmpDM:frameRate>f48000</xmpDM:frameRate>
                </rdf:li>
             </rdf:Bag>
          </xmpDM:Tracks>
-         <xmp:MetadataDate>2022-04-08T19:19:03+02:00</xmp:MetadataDate>
-         <xmp:CreatorTool>Adobe Audition 14.2 (Windows)</xmp:CreatorTool>
-         <xmp:CreateDate>2022-04-08T19:19:03+02:00</xmp:CreateDate>
-         <xmp:ModifyDate>2022-04-08T19:19:03+02:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:1206e62c-e9bb-714b-9569-acde2ba1323a</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:f34d0acf-6b7d-cf4c-9ee5-5dc162de1a6a</xmpMM:DocumentID>
-         <xmpMM:OriginalDocumentID>xmp.did:f34d0acf-6b7d-cf4c-9ee5-5dc162de1a6a</xmpMM:OriginalDocumentID>
+         <xmp:MetadataDate>2022-12-09T13:52:07+01:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2022-12-09T13:52:07+01:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:cad0f9cb-be53-9c48-a5a4-ee963f0ecfeb</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:7213ccd0-8d0d-6f46-8ed3-6774922f9ca8</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:7213ccd0-8d0d-6f46-8ed3-6774922f9ca8</xmpMM:OriginalDocumentID>
          <xmpMM:History>
             <rdf:Seq>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:f34d0acf-6b7d-cf4c-9ee5-5dc162de1a6a</stEvt:instanceID>
-                  <stEvt:when>2022-04-08T19:19:03+02:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:7213ccd0-8d0d-6f46-8ed3-6774922f9ca8</stEvt:instanceID>
+                  <stEvt:when>2022-12-09T13:52:07+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 14.2 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/metadata</stEvt:changed>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>created</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:1206e62c-e9bb-714b-9569-acde2ba1323a</stEvt:instanceID>
-                  <stEvt:when>2022-04-08T19:19:03+02:00</stEvt:when>
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:cad0f9cb-be53-9c48-a5a4-ee963f0ecfeb</stEvt:instanceID>
+                  <stEvt:when>2022-12-09T13:52:07+01:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 14.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
                </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
-         <dc:format>audio/ogg; codec="vorbis"</dc:format>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
